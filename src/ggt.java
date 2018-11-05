@@ -52,10 +52,10 @@ public class ggt {
 		case 2: 
 		case 3: 
 		case 4: 
-			System.out.print("Smallest common denominator is bewtween 1 and 4. It is: " + ggt);
+			System.out.print("Greates common denominator is bewtween 1 and 4. It is: " + ggt);
 			break; 
 		default:
-			System.out.print("Smallest common denominator is not bewtween 1 and 4. It is: " + ggt);
+			System.out.print("Greates common denominator is not bewtween 1 and 4. It is: " + ggt);
 
 		}
 		
@@ -66,5 +66,6 @@ public class ggt {
 		
 }
 	
+
 
 
